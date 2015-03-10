@@ -1,0 +1,8 @@
+"ele voa", "nao"
+"ele tem quatro patas", "sim"
+"eh do tipo agua", "sim"
+"tem um canhao", "sim"
+"tem 3 evolucoes", "sim
+"tem um casco", "sim"
+"gosta do seu dono", "nao sei"
+"eh rapido", "nao"
